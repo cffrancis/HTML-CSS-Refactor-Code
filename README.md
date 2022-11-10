@@ -52,7 +52,7 @@ The only problem I had was making sure my html attributes aligned with my CSS co
 
 ## Application Screenshot
 
-![alt text](./Develop/assets/images/screenshot_2022-11-10_035156.jpg "Horiseon Refactor Code Screenshot")
+![alt text](./Develop/assets/images/screenshot_2022-11-10_035156.jpg) "Horiseon Refactor Code Screenshot")
 
 ### Languages
 * HTML
