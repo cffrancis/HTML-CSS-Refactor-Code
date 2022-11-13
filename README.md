@@ -61,4 +61,5 @@ The only problem I had was making sure my html attributes aligned with my CSS co
 ## Links
 
 * Deployed URL Link: https://github.io/cffranc1/Module-1-Refactor-Code-Challenge/
-* GitHub Repository Link: git@github.com:cffrancis/Module-1-Refactor-Code-Challenge.git
+* GitHub Repository Link: https://github.com/cffrancis/HTML-CSS-Refactor-Code.git
+ 
